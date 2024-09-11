@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="please_wait">Please Wait...</string>
+    <string name="alert">Alert</string>
+    <string name="PublicUser">सार्वजनिक उपयोगकर्ता</string>
+    <string name="chooseDistrict">जिला चुनें</string>
+    <string name="urban">शहरी</string>
+    <string name="chooseBlock">Block चुनें</string>
+    <string name="choosetown">Town चुनें</string>
+    <string name="pin">पिन</string>
+    <string name="PersonName">Person Name</string>
+    <string name="email">Email</string>
+    <string name="register">Register</string>
+    <string name="something_went_to_wrong">Something Wents Wrong</string>
+    <string name="please_selectDistrict">कृपया जिला चुनें</string>
+
+</resources>

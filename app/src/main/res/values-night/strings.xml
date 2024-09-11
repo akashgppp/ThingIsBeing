@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="please_wait">Please Wait...</string>
+    <string name="alert">Alert</string>
+    <string name="PublicUser">सार्वजनिक उपयोगकर्ता</string>
+    <string name="chooseDistrict">जिला चुनें</string>
+    <string name="urban">शहरी</string>
+    <string name="chooseBlock">Block चुनें</string>
+    <string name="choosetown">Town चुनें</string>
+    <string name="pin">पिन</string>
+    <string name="PersonName">Person Name</string>
+    <string name="email">Email</string>
+    <string name="register">Register</string>
+    <string name="something_went_to_wrong">Something Wents Wrong</string>
+    <string name="please_selectDistrict">कृपया जिला चुनें</string>
+    <string name="Scheme">योजना</string>
+    <string name="AreaType">क्षेत्र का प्रकार</string>
+    <string name="ActionResult">प्रारंभिक कार्यवाही</string>
+    <string name="versionCode">1.0.0.1</string>
+    <string name="shikayat">शिकायत</string>
+    <string name="shikayatStatus">शिकायत की स्थिति</string>
+    <string name="otpScreen">OTP</string>
+    <string name="Worker">कार्यकर्ता</string>
+    <string name="pdfheader">Department of Social Welfare</string>
+    <string name="Urgent">अतिआवश्यक</string>
+    <string name="downloadreport">रिपोर्ट डाउनलोड करें</string>
+
+</resources>
